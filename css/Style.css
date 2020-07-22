@@ -1,0 +1,55 @@
+
+/*Style little bit*/
+* {
+    box-sizing: border-box;
+}
+body{
+	background-color: #2FD042;
+}
+header{
+	height: 60px;
+	background-color: #D0932F;
+}
+
+body{
+	height: 2000px;
+}
+#nav-list{
+    text-align: center;
+    
+ }   
+.navbar-brand {
+	margin-bottom: 15px
+    position: absolute;
+    left: 50px;
+}
+
+#header-nav{
+    position: absolute;
+    left: 10px;
+}
+
+div section {
+    margin: 2px;
+    padding: 5px;
+}
+.section{
+	background-color: #2F6CD0;
+	height: 1800px;
+}
+
+#page-heading{
+	color: #D02FBD;
+
+}
+
+h3{
+	color: #2FD042;
+}
+
+h2{
+	margin: 15px
+}
+#Food{
+	color: #2FD042;
+}
